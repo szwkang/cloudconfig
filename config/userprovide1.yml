@@ -1,11 +1,3 @@
-eureka:
-  client:
-    serviceUrl:
-      register-with-eureka: true
-      fetch-registry: true
-      defaultZone: http://localhost:20000/eureka
-  instance:
-    preferIpAddress: true
 user:
   name: wangkang
   sex: man
